@@ -4,7 +4,16 @@ A production-oriented **Retrieval-Augmented Generation (RAG) API** built with Fa
 
 This project demonstrates how to design, test, containerize, and continuously validate an AI-powered API **without relying on non-deterministic LLM output in CI**.
 
----
+
+
+
+<img src="images/llm_flow.png" width="700" alt="LLM flow">
+
+
+
+
+
+
 
 ## ✨ What This Project Does
 
