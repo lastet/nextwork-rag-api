@@ -116,7 +116,7 @@ http://127.0.0.1:8000/docs
 
 ```bash
 curl -X POST "http://127.0.0.1:8000/query" \
-  -G --data-urlencode "q=What is Kubernetes?"
+  -G --data-urlencode "q=How to make pancakes?"
 ```
 
 ---
@@ -162,7 +162,7 @@ pirate-rag-api/
 ├── app.py              # FastAPI application
 ├── embed.py            # Embedding generation
 ├── semantic_test.py    # Deterministic semantic tests
-├── k8s.txt             # Knowledge base document
+├── docs/             # Knowledge base document
 ├── Dockerfile
 ├── requirements.txt
 └── .github/workflows/
