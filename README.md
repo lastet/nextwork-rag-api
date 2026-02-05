@@ -172,7 +172,7 @@ This ensures consistent API behavior and protects knowledge quality.
 ```text
 pirate-rag-api/
 ├── app.py              # FastAPI application
-├── embed.py            # Embedding generation
+├── embed_docs.py            # Embedding generation
 ├── semantic_test.py    # Deterministic semantic tests
 ├── docs/             # Knowledge base document
 ├── Dockerfile
