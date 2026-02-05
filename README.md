@@ -7,7 +7,7 @@ This project demonstrates how to design, test, containerize, and continuously va
 
 
 
-<img src="images/llm_flow.png" width="700" alt="LLM flow">
+<img src="images/LLM_flow.png" width="700" alt="LLM flow">
 
 
 
